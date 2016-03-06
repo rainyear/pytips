@@ -10,7 +10,7 @@
 
 ### Tips list
 
-- [0x00-The Zen of Python](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-06-The-Zen-of-Python.ipynb)
+- 0x00 - [The Zen of Python](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-06-The-Zen-of-Python.ipynb)
 
 ### Thanks
 
