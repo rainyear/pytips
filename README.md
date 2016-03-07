@@ -13,6 +13,10 @@
 - 0x01 - [iterator & generator](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-07-iterator-and-generator.ipynb)
 - 0x00 - [The Zen of Python](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-06-The-Zen-of-Python.ipynb)
 
+### How to Contribute
+
+1. 提供问题、话题或应用场景：[Issue](https://github.com/rainyear/pytips/issues)
+
 ### Thanks
 
 - [Python](http://www.python.org/)
