@@ -11,7 +11,7 @@
 ### Tips list
 
 - **0x02** - [Functional Programming in Python](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-08-Functional-Programming-in-Python.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-08-Functional-Programming-in-Python.md)]
-- **0x01** - [`iterator` & `generator` ](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-07-iterator-and-generator.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-07-iterator-and-generator.md)]
+- **0x01** - [Iterator and Generator](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-07-iterator-and-generator.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-07-iterator-and-generator.md)]
 - **0x00** - [The Zen of Python](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-06-The-Zen-of-Python.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-06-The-Zen-of-Python.md)]
 
 ### How to Contribute
