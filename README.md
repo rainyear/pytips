@@ -1,7 +1,5 @@
 ### Python Tips
 
-![PyTips](./PyTips.png)
-
 受[jstips](https://github.com/loverajoel/jstips)项目启发。
 
 > 每天一条有用的 Python 小提示
