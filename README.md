@@ -1,5 +1,7 @@
 ### Python Tips
 
+![PyTips](./PyTips.png)
+
 受[jstips](https://github.com/loverajoel/jstips)项目启发。
 
 > 每天一条有用的 Python 小提示
@@ -10,8 +12,9 @@
 
 ### Tips list
 
-- 0x01 - [iterator & generator](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-07-iterator-and-generator.ipynb)
-- 0x00 - [The Zen of Python](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-06-The-Zen-of-Python.ipynb)
+- **0x02** - [Functional Programming in Python](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-08-Functional-Programming-in-Python.ipynb)
+- **0x01** - [`iterator` & `generator`](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-07-iterator-and-generator.ipynb)
+- **0x00** - [The Zen of Python](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-06-The-Zen-of-Python.ipynb)
 
 ### How to Contribute
 
