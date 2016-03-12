@@ -1,5 +1,7 @@
 ### Python Tips
 
+[![Join the chat at https://gitter.im/rainyear/pytips](https://badges.gitter.im/rainyear/pytips.svg)](https://gitter.im/rainyear/pytips?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 受[jstips](https://github.com/loverajoel/jstips)项目启发。
 
 > 每天一条有用的 Python 小提示
