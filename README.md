@@ -1,4 +1,5 @@
 ### Python Tips
+[![Join the chat at https://gitter.im/rainyear/pytips](https://badges.gitter.im/rainyear/pytips.svg)](https://gitter.im/rainyear/pytips)
 
 受[jstips](https://github.com/loverajoel/jstips)项目启发。
 
