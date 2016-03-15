@@ -11,7 +11,7 @@
 
 ### Tips list
 
-- **0x07** - [String](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-15-Unicode-String.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-15-Unicode-String.md)]
+- **0x07** - [Unicode String](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-15-Unicode-String.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-15-Unicode-String.md)]
 - **0x06** - [Command Line tools in Python](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-14-Command-Line-tools-in-Python.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-14-Command-Line-tools-in-Python.md)]
 - **0x05** - [Arguments and Unpacking](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-11-Arguments-and-Unpacking.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-11-Arguments-and-Unpacking.md)]
 - **0x04** - [Scope and Closure](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-10-Scope-and-Closure.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-10-Scope-and-Closure.md)]
