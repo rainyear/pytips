@@ -24,7 +24,7 @@ pass # Donot output
 
 我将其准换成[铁路图](https://en.wikipedia.org/wiki/Syntax_diagram)的形式，（可能）更直观一些：
 
-![replacement_field](http://7xiijd.com1.z0.glb.clouddn.com/replacement_field.jpg)
+![replacement_field.jpg](http://7xiijd.com1.z0.glb.clouddn.com/replacement_field.jpg)
 
 模板中替换变量用 `{}` 包围，且由 `:` 分为两部分，其中后半部分 `format_spec` 在后面会单独讨论。前半部分有三种用法：
 
@@ -98,7 +98,7 @@ print("\n====\nHelp(format):\n {.__doc__}".format(str.format))
 
 最后 `:` 之后的部分定义输出的样式：
 
-![format_spec](http://7xiijd.com1.z0.glb.clouddn.com/format_spec.jpg)
+![format_spec.jpg](http://7xiijd.com1.z0.glb.clouddn.com/format_spec.jpg)
 
 `align` 代表对齐方向，通常要配合 `width` 使用，而 `fill` 则是填充的字符（默认为空白）：
 
