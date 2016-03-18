@@ -11,6 +11,7 @@
 
 ### Tips list
 
+- **0x0a** - [String-Format](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-18-String-Format.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-18-String-Format.md)]
 - **0x09** - [Bytes-decode-Unicode-encode-Bytes](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-17-Bytes-decode-Unicode-encode-Bytes.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-17-Bytes-decode-Unicode-encode-Bytes.md)]
 - **0x08** - [Bytes and Bytearray](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-16-Bytes-and-Bytearray.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-16-Bytes-and-Bytearray.md)]
 - **0x07** - [Unicode String](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-15-Unicode-String.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-15-Unicode-String.md)]
