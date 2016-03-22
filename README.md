@@ -11,7 +11,7 @@
 
 ### Tips list
 
-- **0x0c** - [Shallow and Deep Copy](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-21-Shallow-and-Deep-Copy.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-21-Shallow-and-Deep-Copy.md)]
+- **0x0c** - [Shallow and Deep Copy](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-22-Shallow-and-Deep-Copy.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-22-Shallow-and-Deep-Copy.md)]
 - **0x0b** - [Try else](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-21-Try-else.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-21-Try-else.md)]
 - **0x0a** - [String Format](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-18-String-Format.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-18-String-Format.md)]
 - **0x09** - [Bytes decode Unicode encode Bytes](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-17-Bytes-decode-Unicode-encode-Bytes.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-17-Bytes-decode-Unicode-encode-Bytes.md)]
