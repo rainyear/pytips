@@ -11,6 +11,7 @@
 
 ### Tips list
 
+- **0x0f** - [Decorator and functools](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-25-Decorator-and-functools.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-25-Decorator-and-functools.md)]
 - **0x0e** - [Sort and Sorted](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-24-Sort-and-Sorted.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-24-Sort-and-Sorted.md)]
 - **0x0d** - [With Context Manager](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-23-With-Context-Manager.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-23-With-Context-Manager.md)]
 - **0x0c** - [Shallow and Deep Copy](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-22-Shallow-and-Deep-Copy.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-22-Shallow-and-Deep-Copy.md)]
