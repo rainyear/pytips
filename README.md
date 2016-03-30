@@ -11,6 +11,7 @@
 
 ### Tips list
 
+- **0x11** - [Date and Time](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-30-Date-and-Time.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-30-Date-and-Time.md)]
 - **0x10** - [Heap and Queue](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-28-Heap-and-Queue.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-28-Heap-and-Queue.md)]
 - **0x0f** - [Decorator and functools](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-25-Decorator-and-functools.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-25-Decorator-and-functools.md)]
 - **0x0e** - [Sort and Sorted](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-24-Sort-and-Sorted.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-24-Sort-and-Sorted.md)]
