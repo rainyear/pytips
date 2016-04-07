@@ -7,15 +7,15 @@
 
 ~~每天花费不到两分钟，学习一条可以提高Python代码质量，更Pythonic的方法解决问题的小技巧。~~
 
-写了一段时间之后发现越来越难控制在关于某一条语法点的小技巧，而更像是关于某一『话题』的讨论，例如某一语法特性或某几个标准库的应用。我会继续按照这种惯性写下去，也不打算更名为『PyTopics』。内容和风格不会有特意的转变，只是在这里说明一下 :neutral_face:
+写了一段时间之后发现越来越难控制在关于某一条语法点的小技巧，而更像是关于某一『话题』的讨论，例如某一语法特性或某几个标准库的应用。我会继续按照这种惯性写下去，也不打算更名为『PyTopics』。内容和风格不会有刻意的转变，只是在这里说明一下。 :neutral_face:
 
 
 *主要基于 Python 3.5 并尽量做到向后兼容（至Python 2.7）。*
 
 ### Tips list
 
-- **0x13** - Thread vs Coroutine ii
-- **0x12** - Thread vs Coroutine i
+- **0x13** - [Thread vs Coroutine ii](https://github.com/rainyear/pytips/blob/master/Tips/2016-04-07-Thread-vs-Coroutine-ii.ipynb) [[markdown]](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-04-07-Thread-vs-Coroutine-ii.md)
+- **0x12** - [Thread vs Coroutine i](https://github.com/rainyear/pytips/blob/master/Tips/2016-04-07-Thread-vs-Coroutine-i.ipynb) [[markdown]](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-04-07-Thread-vs-Coroutine-i.md)
 - **0x11** - [Date and Time](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-30-Date-and-Time.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-30-Date-and-Time.md)]
 - **0x10** - [Heap and Queue](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-28-Heap-and-Queue.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-28-Heap-and-Queue.md)]
 - **0x0f** - [Decorator and functools](https://github.com/rainyear/pytips/blob/master/Tips/2016-03-25-Decorator-and-functools.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-03-25-Decorator-and-functools.md)]
