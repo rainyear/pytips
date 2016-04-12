@@ -5,8 +5,7 @@
 
 
 ```python
-from math import sin
-from __future__ import absolute_import, division, print_function, with_statement
+from __future__ import absolute_import, division
 ```
 
 `__future__` 模块由 [PEP 236](https://www.python.org/dev/peps/pep-0236/) 提出并加入到 Python 2.1，其存在的主要原因是 Python 的版本升级经常会增加一些新的特性，而 `__future__` 模块将一些新版本中将会增加的新的特性进行声明，同时使得旧版本可以使用这些新的语法特性。当然，如果你用的是 Python 2.1 以前的版本，是没办法使用 `__future__` 的。`__future__` 模块的导入一定要放在最上方，也就是在所有其它模块之前导入。
