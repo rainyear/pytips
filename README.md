@@ -14,6 +14,7 @@
 
 ### Tips list
 
+- **0x15** - [Module future](https://github.com/rainyear/pytips/blob/master/Tips/2016-04-12-Module-future.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-04-12-Module-future.md)]
 - **0x14** - [Descriptor](https://github.com/rainyear/pytips/blob/master/Tips/2016-04-08-Descriptor.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-04-08-Descriptor.md)]
 - **0x13** - [Thread vs Coroutine ii](https://github.com/rainyear/pytips/blob/master/Tips/2016-04-07-Thread-vs-Coroutine-ii.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-04-07-Thread-vs-Coroutine-ii.md)]
 - **0x12** - [Thread vs Coroutine i](https://github.com/rainyear/pytips/blob/master/Tips/2016-04-07-Thread-vs-Coroutine-i.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-04-07-Thread-vs-Coroutine-i.md)]
