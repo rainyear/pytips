@@ -14,6 +14,7 @@
 
 ### Tips list
 
+- **0x18** - [Class and Metaclass i](https://github.com/rainyear/pytips/blob/master/Tips/2016-05-01-Class-and-Metaclass-i.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-05-01-Class-and-Metaclass-i.md)]
 - **0x17** - [Enum](https://github.com/rainyear/pytips/blob/master/Tips/2016-04-30-Enum.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-04-30-Enum.md)]
 - **0x16** - [Iterator Tools](https://github.com/rainyear/pytips/blob/master/Tips/2016-04-13-Iterator-Tools.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-04-13-Iterator-Tools.md)]
 - **0x15** - [Module future](https://github.com/rainyear/pytips/blob/master/Tips/2016-04-12-Module-future.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-04-12-Module-future.md)]
