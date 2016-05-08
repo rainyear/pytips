@@ -23,7 +23,7 @@ print(evens)
 
 ```python
 fevens = filter(lambda x: x % 2 == 0, range(10))
-print(list(evens) == evens)
+print(list(fevens) == evens)
 ```
 
     True
