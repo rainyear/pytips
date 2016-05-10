@@ -9,8 +9,10 @@
 
 写了一段时间之后发现越来越难控制在关于某一条语法点的小技巧，而更像是关于某一『话题』的讨论，例如某一语法特性或某几个标准库的应用。我会继续按照这种惯性写下去，也不打算更名为『PyTopics』。内容和风格不会有刻意的转变，只是在这里说明一下。 :neutral_face:
 
-
 *主要基于 Python 3.5 并尽量做到向后兼容（至Python 2.7）。*
+
+文档已托管在 Read the Docs: [Tips.PyHub.cc](http://tips.pyhub.cc/zh/latest/)。
+
 
 ### Tips list
 
