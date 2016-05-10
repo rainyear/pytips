@@ -1,5 +1,33 @@
 site_name: Python Tips
 pages:
 - Home: index.md
+- Tips:
+  - '0x00-Python 之禅': '2016-03-06-The-Zen-of-Python.md'
+  - '0x01-迭代器与生成器': '2016-03-07-iterator-and-generator.md'
+  - '0x02-函数式编程': '2016-03-08-Functional-Programming-in-Python.md'
+  - '0x03-列表推导': '2016-03-09-List-Comprehension.md'
+  - '0x04-作用域与闭包': '2016-03-10-Scope-and-Closure.md'
+  - '0x05-参数与解包': '2016-03-11-Arguments-and-Unpacking.md'
+  - '0x06-命令行工具开发': '2016-03-14-Command-Line-tools-in-Python.md'
+  - '0x07-Unicode 字符串': '2016-03-15-Unicode-String.md'
+  - '0x08-字节与字节数组': '2016-03-16-Bytes-and-Bytearray.md'
+  - '0x09-Bytes 与 Unicode 之间的转换': '2016-03-17-Bytes-decode-Unicode-encode-Bytes.md'
+  - '0x0a-格式化字符串': '2016-03-18-String-Format.md'
+  - '0x0b-无处不在的 else': '2016-03-21-Try-else.md'
+  - '0x0c-深拷贝与浅拷贝': '2016-03-22-Shallow-and-Deep-Copy.md'
+  - '0x0d-with 语句与上下文管理器': '2016-03-23-With-Context-Manager.md'
+  - '0x0e-Python 内置排序方法': '2016-03-24-Sort-and-Sorted.md'
+  - '0x0f-修饰器与functools': '2016-03-25-Decorator-and-functools.md'
+  - '0x10-Heap & Queue': '2016-03-28-Heap-and-Queue.md'
+  - '0x11-日期与时间': '2016-03-30-Date-and-Time.md'
+  - '0x12-Python 线程与协程（1）': '2016-04-07-Thread-vs-Coroutine-i.md'
+  - '0x13-Python 线程与协程（2）': '2016-04-07-Thread-vs-Coroutine-ii.md'
+  - '0x14-Python 描述符': '2016-04-08-Descriptor.md'
+  - '0x15-__future__ 模块': '2016-04-12-Module-future.md'
+  - '0x16-迭代器工具包': '2016-04-13-Iterator-Tools.md'
+  - '0x17-Python 中的枚举类型': '2016-04-30-Enum.md'
+  - '0x18-类与元类的深度挖掘（1）': '2016-05-01-Class-and-Metaclass-i.md'
+  - '0x19-类与元类的深度挖掘（2）': '2016-05-02-Class-and-Metaclass-ii.md'
+- License: 'LICENSE.md'
 docs_dir: Markdowns
 theme: readthedocs
