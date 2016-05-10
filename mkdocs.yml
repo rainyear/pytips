@@ -1,0 +1,5 @@
+site_name: Python Tips
+pages:
+- Home: index.md
+docs_dir: Markdowns
+theme: readthedocs
