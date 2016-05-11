@@ -28,6 +28,7 @@ pages:
   - '0x17-Python 中的枚举类型': '2016-04-30-Enum.md'
   - '0x18-类与元类的深度挖掘（1）': '2016-05-01-Class-and-Metaclass-i.md'
   - '0x19-类与元类的深度挖掘（2）': '2016-05-02-Class-and-Metaclass-ii.md'
+  - '0x1a-Python 浮点数运算': '2016-05-11-Floating-Point-Arithmetic.md'
 - License: 'LICENSE.md'
 docs_dir: Markdowns
 theme: readthedocs
