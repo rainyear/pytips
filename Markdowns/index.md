@@ -12,6 +12,7 @@
 
 ### 目录
 
+- **0x1a** - [Floating Point Arithmetic](2016-05-11-Floating-Point-Arithmetic.md)
 - **0x19** - [Class and Metaclass ii](2016-05-02-Class-and-Metaclass-ii.md)
 - **0x18** - [Class and Metaclass i](2016-05-01-Class-and-Metaclass-i.md)
 - **0x17** - [Enum](2016-04-30-Enum.md)

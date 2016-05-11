@@ -16,6 +16,7 @@
 
 ### Tips list
 
+- **0x1a** - [Floating Point Arithmetic](https://github.com/rainyear/pytips/blob/master/Tips/2016-05-11-Floating-Point-Arithmetic.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-05-11-Floating-Point-Arithmetic.md)]
 - **0x19** - [Class and Metaclass ii](https://github.com/rainyear/pytips/blob/master/Tips/2016-05-02-Class-and-Metaclass-ii.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-05-02-Class-and-Metaclass-ii.md)]
 - **0x18** - [Class and Metaclass i](https://github.com/rainyear/pytips/blob/master/Tips/2016-05-01-Class-and-Metaclass-i.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-05-01-Class-and-Metaclass-i.md)]
 - **0x17** - [Enum](https://github.com/rainyear/pytips/blob/master/Tips/2016-04-30-Enum.ipynb) [[markdown](https://github.com/rainyear/pytips/blob/master/Markdowns/2016-04-30-Enum.md)]
