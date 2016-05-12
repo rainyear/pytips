@@ -8,7 +8,7 @@
 
 主要基于 Python 3.5 并尽量做到向后兼容（至Python 2.7）。
 
-文档已托管在 [Read the Docs](http://tips.pyhub.cc): Tips.PyHub.cc。
+文档已托管在 [Read the Docs](http://tips.pyhub.cc): Tips.PyHub.cc，[GitHub](https://github.com/rainyear/pytips)。
 
 ### 目录
 
