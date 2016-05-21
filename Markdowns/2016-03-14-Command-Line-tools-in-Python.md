@@ -5,7 +5,7 @@ Python 作为一种脚本语言，可以非常方便地用于系统（尤其是\
 
 #### 命令行工具的一般结构
 
-![CL-in-Python](http://7xiijd.com1.z0.glb.clouddn.com/CL-in-Python.png)
+![CL-in-Python](http://qncdn.rainy.im/CL-in-Python.png)
 
 **1. 标准输入输出**
 

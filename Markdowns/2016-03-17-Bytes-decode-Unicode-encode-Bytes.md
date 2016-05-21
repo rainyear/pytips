@@ -161,7 +161,7 @@ with open("gb2312.txt", "rb") as f:
     
 
 
-![Unicode](http://7xiijd.com1.z0.glb.clouddn.com/Pragmatic_Unicode.jpg)
+![Unicode](http://qncdn.rainy.im/Pragmatic_Unicode.jpg)
 
 ### 参考
 
