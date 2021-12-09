@@ -54,10 +54,6 @@
 - [Jupyter](https://jupyter.org/)
 - [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
 
-### Donate
-
-如果你觉得对你有所帮助，[不妨请我喝杯咖啡~ :beers:](http://rainy.im/donate/)
-
 ### License
 
 [MIT](./LICENSE)
